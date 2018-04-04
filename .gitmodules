@@ -1,0 +1,3 @@
+[submodule "o"]
+	path = o
+	url = https://github.com/danog/lol2
